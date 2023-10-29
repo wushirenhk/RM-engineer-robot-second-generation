@@ -1,0 +1,29 @@
+按键说明：
+**************************键盘鼠标**************************
+Ｗ A S D  前后左右
+Q 	左旋
+E	右旋
+Z   	Arm_normal
+C   	Air_Connection
+X   	Arm_SilveryOre
+V   	Arm_HoldOre
+Ctrl+Z   	Arm_OrePlacement
+Ctrl+B   	自定义控制器开启
+B   	自定义控制器关闭
+F  	Overturn_CW 翻矿正转
+Ctrl+F   	Overturn_CCW 翻矿反转
+G  	翻矿取出
+Ctrl+G 	翻矿存入
+R   	吸矿气泵开关
+Shift  	底盘FAST和SLOW模式切换
+鼠标左键	UI刷新
+鼠标右键  	Gimbal_FREE和LOCK模式切换
+**************************遥控器**************************
+左中右上 
+右摇杆  前后  控制uplift ch1
+左摇杆  左右  控制shift ch2
+左摇杆  前后  控制extend ch3
+
+左上右下
+下电
+
